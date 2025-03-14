@@ -2,7 +2,7 @@
 Hi 👋, I'm Biru Shrestha
 </p>
 
-An experienced QA professional with over 6.5 years of expertise in the field. I have a solid understanding of QA fundamentals and possess a diverse skill set that includes test case management, various testing methodologies, and test automation.
+An experienced QA professional with over 7 years of expertise in the field. I have a solid understanding of QA fundamentals and possess a diverse skill set that includes test case management, various testing methodologies, and test automation.
 
 - 🔭 I’m currently working on honing my test automation skills and expanding my knowledge of software testing methodologies.
   
