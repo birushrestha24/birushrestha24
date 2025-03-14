@@ -8,9 +8,9 @@ An experienced QA professional with over 7 years of expertise in the field. I ha
   
 - 🌱 I’m currently learning advanced techniques in test automation and exploring new tools and frameworks.
   
-- 👯 I’m looking to collaborate on QA projects that involve **Selenium** and **Cypress**, and API testing.
+- 👯 I’m looking to collaborate on QA projects that involve **Playwright** and **Cypress**, and API testing.
   
-- 💬 Ask me about test case management, test automation, API testing, agile methodologies, or any other QA-related topics.
+- 💬 Ask me about test case management, test automation, API testing, agile methodologies, or any other QA-related stuffs.
   
 - 📫 You can reach me at biru.maka@gmail.com
   
